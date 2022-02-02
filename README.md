@@ -4,13 +4,13 @@
     </head>
     <body> 
     <h2>Education</h2> 
-    <p>2019-2020</p>  
+    <h5>2019-2020</h5>  
     <p>University of Witwatersrand</p>
     <p>BSc Honours in Urban and Regional Planning</p>
-  
+  &nbsp;
   </head>
   <body>
-  <P>2022</p>
+  <h5>2022</h5>
   <p>Codespace</p>
   <p>Software Engineering</p>
   </head>
@@ -23,7 +23,7 @@
   <p>Administrative matters and mentoring high school pupils</h4>
   
   <h2>Skills</h2>
-  <p>Social media marketing</p>
-  <p>Excellent in Photoshop, InDesign and AutoCad</p>
-  <p>Good communication skills</p>
-  <p>Punctual</p>
+  <p>*Social media marketing</p>
+  <p>*Excellent in Photoshop, InDesign and AutoCad</p>
+  <p>*Good communication skills</p>
+  <p>*Punctual</p>
