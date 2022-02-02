@@ -7,10 +7,8 @@
     <h5>2019-2020</h5>  
     <p>University of Witwatersrand</p>
     <p>BSc Honours in Urban and Regional Planning</p>
-  &nbsp;
-  </head>
-  <body>
-  <h5>2022</h5>
+ 
+<h5>2022</h5>
   <p>Codespace</p>
   <p>Software Engineering</p>
   </head>
