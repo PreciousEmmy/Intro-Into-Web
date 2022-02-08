@@ -1,8 +1,4 @@
-{
-margin:0;
-padding:0;
-box-sizing:
-}
+
 Body {
   font-size: 110%
   background-color:ice background-colorice-blue;
@@ -11,8 +7,8 @@ Body {
 #top {
   position realative;
   width:100%
-  max-height:1000px;
-  min-height:1000px;
+  max-height:100px;
+  min-height:100px;
   background-color:navy;
   margin:50px;
   
