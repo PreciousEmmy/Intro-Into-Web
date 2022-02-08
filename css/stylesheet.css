@@ -1,19 +1,22 @@
-body{
+#heading {
   font-family:sans-serif    
-  font-size: 110%;
-  background-color:ice-blue;
+  background-color:black;
+  color:white;
 }
 
 header {
     text-align:center;
-  position relative:
-  width:1000px;
-  height: 500px;
-  background-color:navy-blue;
-       }
+}
+header {
+  display:block;
+}
 
 footer {
     background-colorice-blue;
     text-align: center;
 }
 
+Body {
+  font-size: 110%
+  background-color: #FCF7F8
+}
