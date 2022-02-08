@@ -4,9 +4,14 @@ Body {
 }
 
 #top {
+  position realative;
+  width:100%
+  max-height:1000px;
+  min-height:1000px;
   background-color:#ccc;
-  padding:20px;
-}
+  margin:50px;
+  display-grid:
+  }
 
 header {
     text-align:center;
