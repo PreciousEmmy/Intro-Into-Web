@@ -5,6 +5,9 @@ Body {
 
 header {
     text-align:center;
+    h2 {
+     color:blue 
+    }
 }
 header {
   display:block;
