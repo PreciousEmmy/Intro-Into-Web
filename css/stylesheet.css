@@ -1,0 +1,14 @@
+body{
+  font-family:sans-serif    
+  font-size: 110%;
+  background-color:lightpink;
+}
+
+header {
+    text-align:center;
+       }
+
+footer {
+    background-color:lightpink;
+    text-align: center;
+}
