@@ -4,7 +4,7 @@ Body {
 }
 
 #top {
-  background-color:lime;
+  background-color:#ccc;
   padding:20px;
 }
 
@@ -12,8 +12,14 @@ header {
     text-align:center;
 }
 
+h1 {
+  color:#ffc;
+  background-color:#009;
+}
+
 h2 {
-  color:blue 
+  color:white;
+  background-color:black; 
  }
 
 header {
