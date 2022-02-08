@@ -1,8 +1,10 @@
+title{
+  Position : relative;
+  width:10%;
+  height: 10px;
+  background:blue;
+}
 body{
-   Position : relative;
-   width:10%;
-   height: 10px;
-   background:blue;
   font-family:sans-serif    
   font-size: 110%;
   background-color:ice-blue;
