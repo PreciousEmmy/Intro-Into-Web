@@ -3,6 +3,11 @@ Body {
   background-color: black;
 }
 
+#top {
+  background-color:#ccc;
+  padding:20px;
+}
+
 header {
     text-align:center;
 }
