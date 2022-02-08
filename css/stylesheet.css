@@ -1,7 +1,6 @@
-#heading {
-  font-family:sans-serif    
-  background-color:black;
-  color:white;
+Body {
+  font-size: 110%
+  background-color: black;
 }
 
 header {
@@ -16,7 +15,4 @@ footer {
     text-align: center;
 }
 
-Body {
-  font-size: 110%
-  background-color: black;
-}
+
