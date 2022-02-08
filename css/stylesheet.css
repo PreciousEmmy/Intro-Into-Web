@@ -2,7 +2,7 @@ body{
    Position : relative;
    width:100%;
    max-width:100px;
-   min-height: 100px;
+   min-height: 10px;
    background:blue;
   font-family:sans-serif    
   font-size: 110%;
