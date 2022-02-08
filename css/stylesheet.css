@@ -13,13 +13,12 @@ header {
 }
 
 h1 {
-  color:#ffc;
-  background-color:#009;
+  color:black
 }
 
 h2 {
-  color:white;
-  background-color:black; 
+  color:black;
+  background-color:grey; 
  }
 
 header {
