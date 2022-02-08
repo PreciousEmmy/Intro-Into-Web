@@ -1,8 +1,7 @@
 body{
    Position : relative;
    width:10%;
-   max-width:10px;
-   min-height: 10px;
+   height: 10px;
    background:blue;
   font-family:sans-serif    
   font-size: 110%;
