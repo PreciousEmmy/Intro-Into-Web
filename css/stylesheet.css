@@ -1,4 +1,6 @@
-
+.mainbox{
+  border:2px light purple;
+}
 Body {
   font-size: 110%
   background-color:ice background-colorice-blue;
