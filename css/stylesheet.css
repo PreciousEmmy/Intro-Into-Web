@@ -1,16 +1,14 @@
-.mainbox{
-  border:2px light purple;
-}
+
 Body {
   font-size: 110%
   background-color:ice background-colorice-blue;
 }
 
-#mainbox {
+#top {
   position realative;
-  width:40%
-  max-height:1000px;
-  min-height:1000px;
+  width:100%
+  max-height:100px;
+  min-height:100px;
   background-color:grey;
   margin:50px;
   
