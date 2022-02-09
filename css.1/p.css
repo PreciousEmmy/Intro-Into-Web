@@ -7,11 +7,11 @@
 }
 
 body{
-   background:lightblue;
+   background: light-blue;
    display:flex;
    justify-content:center;
    align-items:center;
-   min-height:100 vh;
+   min-height:100vh;
 }
 .container{
     position:relative;
