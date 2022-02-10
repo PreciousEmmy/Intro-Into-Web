@@ -1,4 +1,5 @@
 *(margin:0;padding:0)
+
 .parent{
     display:grid; 
     grid-template-columns:200px auto;
@@ -17,14 +18,22 @@ h2{color:black;}
 h3{color:white;}
 
 
+#profilephoto{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:90%;
+}
+
 .right-panel{
      background-color:antiquewhite;
+    
 }
 
 h3{
-    background-color:burlywood;
+    background-color:rgb(192, 162, 122);
     margin:10px;
-}
+   }
 h4{
    margin:10px; 
 }
