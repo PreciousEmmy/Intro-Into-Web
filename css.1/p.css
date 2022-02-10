@@ -1,15 +1,20 @@
+
 .parent{
     display:grid; 
     grid-template-columns:200px auto;
     height: 100vh        
 }
-
 .left-panel{
-    background-color:cadertblue; 
+    background-color:burlywood; 
+ 
 } 
+h1{color:black;}
+h2{color:black;}
+h3{color:black;}
+
 
 .right-panel{
-     background-color:antiquewhite
+     background-color:antiquewhite;
 }
-    
+  
 
