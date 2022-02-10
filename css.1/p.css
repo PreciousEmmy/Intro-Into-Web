@@ -1,20 +1,32 @@
-
+*(margin:0;padding:0)
 .parent{
     display:grid; 
     grid-template-columns:200px auto;
     height: 100vh        
 }
+
 .left-panel{
-    background-color:burlywood; 
- 
+    background-color:burlywood;
+    
 } 
 h1{color:black;}
 h2{color:black;}
-h3{color:black;}
+h3{color:white;}
 
 
 .right-panel{
      background-color:antiquewhite;
 }
-  
+h3{
+    background-color:burlywood;
+    margin:10px;
+}
+h4{
+   margin:10px; 
+}
+p{
+    margin:10px;
+}
+
+ 
 
