@@ -1,8 +1,8 @@
 
-{
+html{
   margin:0;
   padding:0;
-  box-sizsing:border-box;
+  box-sizing:border-box;
   font-family:sand-serif;  
 }
 
@@ -23,17 +23,16 @@ body{
     display:grid;
     grid-template-columns:1fr 2fr;
     box-shadow:0 35px 55px rgba(0,0,0,0.1);
-
 }
+
 .container .left_side{
     position:relative;
     background:#003147;
     padding:40px;
 }
 
-{
 .container .right_side{
     position:relative;
-    backgroun#fff;
+    background:#fff;
     padding:40px;
 }
