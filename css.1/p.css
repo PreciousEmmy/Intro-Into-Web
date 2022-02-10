@@ -1,15 +1,9 @@
 
-html{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-  font-family:sand-serif;  
-}
 
 body{
    background: light-blue;
    display:flex;
-   justify-content:center;
+   justify-content:space-between;
    align-items:center;
    min-height:100vh;
 }
@@ -19,7 +13,7 @@ body{
     max-width:1000px;
     min-height:1000px;
     margin:50px;
-    background:#fff;
+    background:pink;
     display:grid;
     grid-template-columns:1fr 2fr;
     box-shadow:0 35px 55px rgba(0,0,0,0.1);
