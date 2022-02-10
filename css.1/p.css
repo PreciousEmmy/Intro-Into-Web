@@ -1,32 +1,15 @@
-
-
-body{
-   background: light-blue;
-   display:flex;
-   justify-content:space-between;
-   align-items:center;
-   min-height:100vh;
-}
-.container{
-    position:relative;
-    width:100%;
-    max-width:1000px;
-    min-height:1000px;
-    margin:50px;
-    background:pink;
-    display:grid;
-    grid-template-columns:1fr 2fr;
-    box-shadow:0 35px 55px rgba(0,0,0,0.1);
+.parent{
+    display:grid; 
+    grid-template-columns:200px auto;
+    height: 100vh        
 }
 
-.container .left_side{
-    position:relative;
-    background:#003147;
-    padding:40px;
-}
+.left-panel{
+    background-color:cadertblue; 
+} 
 
-.container .right_side{
-    position:relative;
-    background:#fff;
-    padding:40px;
+.right-panel{
+     background-color:antiquewhite
 }
+    
+
