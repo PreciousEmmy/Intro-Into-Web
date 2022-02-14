@@ -1,4 +1,4 @@
-*(margin:0;padding:0)
+
 
 .parent{
     font-family:calibri;
@@ -91,6 +91,8 @@
 li{
     font-family:calibri;
 }
-
+style{
+  all: none;
+}
  
 
